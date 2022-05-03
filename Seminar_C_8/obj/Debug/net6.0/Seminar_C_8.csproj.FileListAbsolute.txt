@@ -1,0 +1,15 @@
+D:\УчёбаGB\Seminars_C--main\Seminar_C_8\obj\Debug\net6.0\Seminar_C_8.csproj.AssemblyReference.cache
+D:\УчёбаGB\Seminars_C--main\Seminar_C_8\obj\Debug\net6.0\Seminar_C_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\УчёбаGB\Seminars_C--main\Seminar_C_8\obj\Debug\net6.0\Seminar_C_8.AssemblyInfoInputs.cache
+D:\УчёбаGB\Seminars_C--main\Seminar_C_8\obj\Debug\net6.0\Seminar_C_8.AssemblyInfo.cs
+D:\УчёбаGB\Seminars_C--main\Seminar_C_8\obj\Debug\net6.0\Seminar_C_8.csproj.CoreCompileInputs.cache
+D:\УчёбаGB\Seminars_C--main\Seminar_C_8\bin\Debug\net6.0\Seminar_C_8.exe
+D:\УчёбаGB\Seminars_C--main\Seminar_C_8\bin\Debug\net6.0\Seminar_C_8.deps.json
+D:\УчёбаGB\Seminars_C--main\Seminar_C_8\bin\Debug\net6.0\Seminar_C_8.runtimeconfig.json
+D:\УчёбаGB\Seminars_C--main\Seminar_C_8\bin\Debug\net6.0\Seminar_C_8.dll
+D:\УчёбаGB\Seminars_C--main\Seminar_C_8\bin\Debug\net6.0\Seminar_C_8.pdb
+D:\УчёбаGB\Seminars_C--main\Seminar_C_8\obj\Debug\net6.0\Seminar_C_8.dll
+D:\УчёбаGB\Seminars_C--main\Seminar_C_8\obj\Debug\net6.0\refint\Seminar_C_8.dll
+D:\УчёбаGB\Seminars_C--main\Seminar_C_8\obj\Debug\net6.0\Seminar_C_8.pdb
+D:\УчёбаGB\Seminars_C--main\Seminar_C_8\obj\Debug\net6.0\Seminar_C_8.genruntimeconfig.cache
+D:\УчёбаGB\Seminars_C--main\Seminar_C_8\obj\Debug\net6.0\ref\Seminar_C_8.dll
